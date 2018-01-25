@@ -665,7 +665,7 @@
     \end{minipage}%
     \hspace*{-15cm}
     
-\vspace*{-0.39cm}
+\vspace*{-0.825cm}
 
 
 \definecolor{c231f20}{RGB}{35,31,32}
